@@ -12,5 +12,8 @@ Added a feature greeting
 - How to collaborate using Github
 
 ## Team Members
+-Marshon - Feature: student info display
+
+## Team Members
 - Marshon Sellers
 - Dontrell White
