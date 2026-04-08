@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
     cout << "Hello from Marshon! This is my first Git commit.";
+    cout << "Student ID: 55555 | Name: Marshon Sellers" << endl;
     cout << "Git makes collaboration easy!" << endl;
     cout << "Changes made by Dontrell!" << endl;
     cout << "Lab 1 completed on April 6 2026!" << endl;
